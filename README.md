@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/Anty2021/rsschool-cv/tree/gh-pages
+https://anty2021.github.io/rsschool-cv/
